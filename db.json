@@ -1,3 +1,5 @@
 {
-  "school": "ICS"
+  "school": {
+    "school": "ICS"
+  }
 }
